@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NativeGallery</string>
+    <string name="btn_next">NextImage</string>
+</resources>

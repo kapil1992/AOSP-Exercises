@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JNIExample</string>
+    <string name="input_hint">Fibonacci index</string>
+
+    <string name="str_result">Fn:</string>
+    <string name="str_calculate">Get</string>
+</resources>
